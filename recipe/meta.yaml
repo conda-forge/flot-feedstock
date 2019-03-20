@@ -1,6 +1,6 @@
 {% set name = "flot" %}
-{% set version = "0.8.3" %}
-{% set sha256 = "3a3666d0aab777b8fbfddd45146966297e6ef18777d9fd535353be1cc62b21f1" %}
+{% set version = "2.3.1" %}
+{% set sha256 = "c56e2b9a33dc761721a72f0934d06a2048f38b352d679a3109592df6db4503e1" %}
 
 package:
   name: {{ name|lower }}
