@@ -37,8 +37,3 @@ about:
     Flot is a Javascript plotting library for jQuery.  
   doc_url: http://www.flotcharts.org/
   dev_url: https://github.com/flot/flot
-  
-extra:
-  recipe-maintainers:
-    - cshaley
-    - sannykr
